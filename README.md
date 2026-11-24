@@ -105,10 +105,8 @@ LangChain, RAG, Tool Calling, MySQL, SQL Server, Pandas, NumPy, Plotly, Scikit-l
 ## Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-RibeiroRenan04-1558C9?style=flat-square&labelColor=0A0E1A)](https://github.com/RibeiroRenan04)
-<!-- PENDING: add LinkedIn and professional email after confirmation
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Renan_Ribeiro-1558C9?style=flat-square&labelColor=0A0E1A)](LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-1558C9?style=flat-square&labelColor=0A0E1A)](mailto:EMAIL)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Renan_Ribeiro-1558C9?style=flat-square&labelColor=0A0E1A)](https://www.linkedin.com/in/ribeiro-renan/)
+[![Email](https://img.shields.io/badge/Email-contato@rnsolutions.dev.br-1558C9?style=flat-square&labelColor=0A0E1A)](mailto:contato@rnsolutions.dev.br)
 
 <br>
 
